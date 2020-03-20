@@ -1,0 +1,2 @@
+#Unique value and the count
+DF.COLUMNNAME.value_counts()
