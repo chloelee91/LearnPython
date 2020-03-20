@@ -1,0 +1,3 @@
+# Changing the column name
+df_clean = df_clean.rename(columns={'oldName1': 'newName1',
+                                    'oldName2': 'newName2'})
